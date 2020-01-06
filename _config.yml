@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: EAI ICDCS 2020
-email: huang_tian@ihpc.a-star.edu.sg
+email: some_submission_email@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
 description: "
   EAI: Workshop on Efficient Artificial Intelligence
@@ -28,7 +28,7 @@ description: "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  ianmalcolm
+#github_username:  ianmalcolm
 
 # Build settings
 theme: minima

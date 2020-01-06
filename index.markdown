@@ -6,9 +6,12 @@ layout: myhome
 exclude: true
 ---
 
-![Singapore][scene]
 
-[scene]: assets/Singapore_skyline_at_sunset_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg "Singapore"
+<div>
+  <img src="assets/Singapore_skyline_at_sunset_viewed_from_Gardens_by_the_Bay_East_-_20200106.jpg">
+</div>
+
+<br>
 
 <div style="text-align:center">
 <h2>Efficient Artificial Intelligence For Edge Computing </h2>
@@ -21,17 +24,10 @@ This workshop focuses on an emerging and impactful topic  Efficient Artificial I
 
 The main principles of efficient AI for edge computing are efficiency, effectiveness, and adaptability. Efficiency is the ability to achieve the required performance with constrained resources (e.g. compute, memory, storage, and power). Effectiveness is the ability to achieve a good quality of results (QoR) with efficiency taken into consideration. Adaptability deals with the ability to adapt to changing needs, environment, and operational conditions. Together, these three principles of efficient AI formulate the key metrics toward ultra-efficient AI for edge devices. In the last few years, we have witnessed a growing research trend in these principles.  Various kinds of techniques are proposed such as post-training or training-aware quantization and pruning, hardware-software co-design, low power machine learning, etc. The research and development progress has been complemented in popular machine learning frameworks with many applications in image classification, video analysis, IoTs, circuit/chip design, health monitoring and more.
 
-While there have been numerous workshops related to edge computing, learning on-a-chip, model compression, EAI for edge computing is a freshly emerging field that is hardly covered by any existing workshop. We found a few notable special issues and tutorials that are related to ours as follows:
-
-+ [Integrating Edge Computing, Caching, and Offloading in Next Generation Networks](https://infocom2019.ieee-infocom.org/workshop-integrating-edge-computing-caching-and-offloading-next-generation-networks), INFOCOM 2019 workshop
-+ [Hardware and Algorithms for Learning On-a-Chip](https://iccad.com/event_details?id=283-1-W), ICCAD 2019 workshop
-+ [TinyML - Ultra Low Power Machine Learning Applications and Architectures](http://www2.dac.com/events/eventdetails.aspx?id=267-7), DAC
-+ [Compact Deep Neural Networks with industrial applications](https://nips.cc/Conferences/2018/Schedule?showEvent=10941), NIPS 2018 workshop
-+ [Cloud Intelligence: AI/ML for Efficient and Manageable Cloud Services](https://aaai.org/Conferences/AAAI-20/ws20workshops/), AAAI 2019 workshop
-
 The proposed EAI workshop will offer a timely collection of information to benefit researchers and practitioners working in the broad research fields of AI, optimization, and distributed computing, hardware design community. All the aforementioned issues are well covered by the Topic of Interest in ICDCS 2019. We feel confident that such a first-of-its-kind workshop will attract around 20-30 submissions as well as the more than 40 audiences.
 
 ## Workshop Format and Schedule
+
 The EAI workshop will feature full-day events. We plan to invite 2 to 4 keynote speakers who are leading experts from both academia and industry. A list of keynote speakers includes:
 
 + **Shangjiang Tang**, Associate Professor from Tianjin University (Confirmed).
@@ -39,20 +35,12 @@ The EAI workshop will feature full-day events. We plan to invite 2 to 4 keynote 
 + **Zeng Zeng**, Senior Scientist from I2R, A\*STAR (Confirmed).
 + **Jiang Xu**, Professor from HKUST(To be confirmed).
 
-Program Committee Members:
-
-+ **Liwei Yang**, IHPC, A\*STAR, Singapore
-+ **Shangjiang Tang**, Tianjin University, China
-+ **Pan Lai**, SUTD, Singapore
-+ **Yingnan Cui**, IHPC, A\*STAR, Singapore
-
-
 We will also organize a panel by the invited speakers to discuss EAI challenges & opportunities.
 
 ## Important Dates
 **Submission Deadline**: 05:00 PM (Pacific Time), May 1st, 2020  
-**Acceptance Notifications**: Jun 1th, 2020  
-**Camera-ready**: Jun 15th, 2020
+**Acceptance Notifications**: April 3, 2020  
+**Camera-ready**: April 17, 2020
 
 All submissions will be considered for oral and poster presentations at EAI. The decision on presentation format will be based primarily on an assessment of the breadth of interest, and the construction. We will seek sponsorship to set up the best paper and best poster awards.
 
@@ -76,33 +64,75 @@ A tentative workshop schedule is outlined below:
 
 ## Organizing Committee
 
-**Joey Tianyi Zhou [main contact]**  
-**Email**: joey.tianyi.zhou@gmail.com **Office Phone**: (65) 64191502  
-**Office Address**: 1 Fusionopolis Way, #16-16 Connexis, 138632, Singapore.
+<div class="row">
+  <div class="column">
 
-**Tao Luo**  
-**Email**: luotao@ihpc.a-star.edu.sg **Office Phone**: (65) 64191110  
-**Office Address**: 1 Fusionopolis Way, #16-16 Connexis, 138632, Singapore.
+<div>
+<img src="/bio/ZHOU_Joey.jpg" height="auto" width="100" style="border-radius:50%">
+</div>
+<span style="font-weight:bold">Joey Tianyi Zhou</span>  <br>
+Institute of High Performance Computing  <br>
+Agency for Science, Technology and Research
 
-**Wei Zhang**  
-**Email**: eeweiz@ust.hk **Office Phone** : (852) 2358 8170  
-**Office Address**: The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+  </div>
+  <div class="column">
 
-**Weichen Liu**  
-**Email**: liu@ntu.edu.sg  
-**Office Address**: 50 Nanyang Ave, 639798
+<div>
+<img src="/bio/LUO_Tao.jpg" height="auto" width="100" style="border-radius:50%">
+</div>
+<span style="font-weight:bold">Tao Luo</span>  <br>
+Institute of High Performance Computing  <br>
+Agency for Science, Technology and Research
 
-**Weng-Fai Wong**  
-**Email** : wongwf@comp.nus.edu.sg **Office Phone** : (65) 65166902  
-**Office Address**: 21 Lower Kent Ridge Road, 119077
+  </div>
+</div>
+<div class="row">
+  <div class="column">
 
-**Yew Soon Ong**  
-**Email** : asysong@ntu.edu.sg **Office Phone** : (65) 64196547  
-**Office Address**: 50 Nanyang Ave, 639798
+<div>
+<img src="/bio/ZHANG_Wei.jpg" height="auto" width="100" style="border-radius:50%">
+</div>
+<span style="font-weight:bold">Wei Zhang</span>  <br>
+department of electronic & computer engineering  <br>
+the hong kong university of science and technology
+
+  </div>
+  <div class="column">
+
+<div>
+<img src="/bio/LIU_Weichen.jpg" height="auto" width="100" style="border-radius:50%">
+</div>
+<span style="font-weight:bold">Weichen Liu</span>  <br>
+School of Computer Science and Engineering  <br>
+Nanyang Technological University Singapore
+
+  </div>
+</div>
+<div class="row">
+  <div class="column">
 
 
+<div>
+<img src="/bio/WONG_Wengfai.jpg" height="auto" width="100" style="border-radius:50%">
+</div>
+<span style="font-weight:bold">Weng-Fai Wong</span>  <br>
+School of Computer Science and Engineering  <br>
+Nanyang Technological University Singapore
+
+  </div>
+  <div class="column">
+
+<div>
+<img src="/bio/ONG_Yewsoon.jpg" height="auto" width="100" style="border-radius:50%">
+</div>
+<span style="font-weight:bold">Yew Soon Ong</span>  <br>
+School of Computer Science and Engineering  <br>
+Nanyang Technological University
 
 
+  </div>
+</div>
 
 
----
+## Related Links:
+[40th IEEE International Conference on Distributed Computing Systems July 8 - 10, 2020, Singapore](https://icdcs2020.sg/ "ICDCS2020")
