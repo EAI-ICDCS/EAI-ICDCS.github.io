@@ -33,7 +33,6 @@ The EAI workshop will feature full-day events. We plan to invite 2 to 4 keynote 
 + **Shangjiang Tang**, Associate Professor from Tianjin University (Confirmed).
 + **Yao Chen**, Research Scientist from Advanced Digital Sciences Center UIUC (Confirmed).
 + **Zeng Zeng**, Senior Scientist from I2R, A\*STAR (Confirmed).
-+ **Jiang Xu**, Professor from HKUST(To be confirmed).
 
 We will also organize a panel by the invited speakers to discuss EAI challenges & opportunities.
 
@@ -93,8 +92,8 @@ Agency for Science, Technology and Research
 <img src="/bio/ZHANG_Wei.jpg" height="auto" width="100" style="border-radius:50%">
 </div>
 <span style="font-weight:bold">Wei Zhang</span>  <br>
-department of electronic & computer engineering  <br>
-the hong kong university of science and technology
+Department of Electronic & Computer Engineering  <br>
+The Hong Kong University of Science and Technology
 
   </div>
   <div class="column">
