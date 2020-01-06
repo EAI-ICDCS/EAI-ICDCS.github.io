@@ -37,7 +37,7 @@ The EAI workshop will feature full-day events. We plan to invite 2 to 4 keynote 
 We will also organize a panel by the invited speakers to discuss EAI challenges & opportunities.
 
 ## Important Dates
-**Submission Deadline**: 05:00 PM (Pacific Time), May 1st, 2020  
+**Submission Deadline**: March 20, 2020  
 **Acceptance Notifications**: April 3, 2020  
 **Camera-ready**: April 17, 2020
 
