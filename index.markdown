@@ -103,7 +103,7 @@ The Hong Kong University of Science and Technology
 </div>
 <span style="font-weight:bold">Weichen Liu</span>  <br>
 School of Computer Science and Engineering  <br>
-Nanyang Technological University Singapore
+Nanyang Technological University
 
   </div>
 </div>
@@ -115,8 +115,8 @@ Nanyang Technological University Singapore
 <img src="/bio/WONG_Wengfai.jpg" height="auto" width="100" style="border-radius:50%">
 </div>
 <span style="font-weight:bold">Weng-Fai Wong</span>  <br>
-School of Computer Science and Engineering  <br>
-Nanyang Technological University Singapore
+Department of Computer Science School of Computing  <br>
+National University of Singapore
 
   </div>
   <div class="column">

@@ -18,8 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+author: Tian HUANG
 title: EAI ICDCS 2020
-email: some_submission_email@gmail.com
+email: huang_tian@ihpc.a-star.edu.sg
+
 #description: >- # this means to ignore newlines until "baseurl:"
 description: "
   EAI: Workshop on Efficient Artificial Intelligence
@@ -35,6 +37,7 @@ theme: minima
 #theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
