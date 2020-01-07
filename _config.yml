@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-author: Tian HUANG
-title: EAI ICDCS 2020
-email: huang_tian@ihpc.a-star.edu.sg
+#author: Tian HUANG
+title: EAI 2020
+email: eai2020@easychair.org
 
 #description: >- # this means to ignore newlines until "baseurl:"
 description: "
