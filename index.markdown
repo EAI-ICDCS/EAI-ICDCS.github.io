@@ -34,7 +34,10 @@ The EAI workshop will feature full-day events. We plan to invite 2 to 4 keynote 
 
 We will also organize a panel by the invited speakers to discuss EAI challenges & opportunities.
 
-## Important Dates
+### **Submission Information**
+All papers need to be submitted electronically in PDF format through [[link placeholder]](127.0.0.1). Papers must be formatted for 8.5x11-inch paper. The length of the paper must be no more than 6 pages (or 8 pages with over-length charge) in the IEEE double-column format (10-pt font), including references and everything. The reviews will be single blind. At least one of the authors of every accepted paper must register and present the paper at the workshop.
+
+### **Important Dates**
 **Submission Deadline**: March 20, 2020  
 **Acceptance Notifications**: April 3, 2020  
 **Camera-ready**: April 17, 2020
