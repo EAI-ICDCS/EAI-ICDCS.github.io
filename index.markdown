@@ -40,7 +40,8 @@ All papers need to be submitted electronically in PDF format through [**<u>here<
 ### **Important Dates**
 ~~**Submission Deadline**: March 20, 2020~~  
 **Extended Submission Deadline**: March 27, 2020  
-**Acceptance Notifications**: April 3, 2020  
+~~**Acceptance Notifications**: April 3, 2020~~  
+**Acceptance Notifications**: April 7, 2020  
 **Camera-ready**: April 17, 2020
 
 All submissions will be considered for oral and poster presentations at EAI. The decision on presentation format will be based primarily on an assessment of the breadth of interest, and the construction. We will seek sponsorship to set up the best paper and best poster awards.
