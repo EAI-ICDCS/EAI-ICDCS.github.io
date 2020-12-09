@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 #author: Tian HUANG
-title: EAI 2020
-email: eai2020@easychair.org
+title: EAI 2021
+email: eai2021@easychair.org
 
 #description: >- # this means to ignore newlines until "baseurl:"
 description: "
   EAI: Workshop on Efficient Artificial Intelligence
   For Edge Computing in conjunction with
-  The 40th IEEE International Conference on Distributed Computing"
+  The 41th IEEE International Conference on Distributed Computing"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
