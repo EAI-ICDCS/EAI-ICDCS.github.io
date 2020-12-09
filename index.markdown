@@ -8,13 +8,13 @@ exclude: true
 
 
 <div>
-  <img src="assets/animals-architecture-daylight.jpg">
+  <img src="assets/icdcs2021banner.png">
 </div>
 
 <br>
 
 <div style="text-align:center">
-<h2>Efficient Artificial Intelligence For Edge Computing </h2>
+<h2>The Second International Workshop on Efficient Artificial Intelligence For Edge Computing (EAI) </h2>
 <h2>ICDCS 2021 Workshop</h2>
 </div>
 
@@ -26,21 +26,21 @@ The main principles of efficient AI for edge computing are efficiency, effective
 
 ## Workshop Format and Schedule
 
-The EAI workshop will feature full-day events. We plan to invite 2 to 4 keynote speakers who are leading experts from both academia and industry. A list of keynote speakers includes:
+The EAI workshop will feature full-day events. We plan to invite 2 to 4 keynote speakers who are leading experts from both academia and industry. A list of potential keynote speakers includes:
 
-+ **Shangjiang Tang**, Associate Professor from Tianjin University (Confirmed).
-+ **Yao Chen**, Research Scientist from Advanced Digital Sciences Center UIUC (Confirmed).
-+ **Zeng Zeng**, Senior Scientist from I2R, A\*STAR (Confirmed).
++ **Shangjiang Tang**, Associate Professor from Tianjin University.
++ **Yao Chen**, Research Scientist from Advanced Digital Sciences Center UIUC.
++ **Zeng Zeng**, Senior Scientist from I2R, A\*STAR.
 
 We will also organize a panel by the invited speakers to discuss EAI challenges & opportunities.
 
 ### **Submission Information**
-All papers need to be submitted electronically in PDF format through [**<u>here</u>**](https://easychair.org/conferences/?conf=eai2021) hosted with EasyChair. Papers must be formatted for 8.5x11-inch paper. The length of the paper must be no more than 6 pages (or 8 pages with over-length charge) in the IEEE double-column format (10-pt font), including references and everything. The reviews will be single blind. At least one of the authors of every accepted paper must register and present the paper at the workshop.
+The submission link will be update soon. Papers must be formatted for 8.5x11-inch paper. The length of the paper must be no more than 6 pages (or 8 pages with over-length charge) in the IEEE double-column format (10-pt font), including references and everything. The reviews will be single blind. At least one of the authors of every accepted paper must register and present the paper at the workshop.
 
 ### **Important Dates**
-**Submission Deadline**: January 13, 2021  
-**Acceptance Notifications**: March 17, 2021  
-**Camera-ready**: April 20, 2021
+**Submission Deadline**: March 2, 2021  
+**Acceptance Notifications**: April 2, 2021  
+**Camera-ready**: April 16, 2021
 
 All submissions will be considered for oral and poster presentations at EAI. The decision on presentation format will be based primarily on an assessment of the breadth of interest, and the construction. We will seek sponsorship to set up the best paper and best poster awards.
 
