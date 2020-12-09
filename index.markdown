@@ -8,14 +8,14 @@ exclude: true
 
 
 <div>
-  <img src="assets/Singapore_skyline_at_sunset_viewed_from_Gardens_by_the_Bay_East_-_20200106.jpg">
+  <img src="assets/animals-architecture-daylight.jpg">
 </div>
 
 <br>
 
 <div style="text-align:center">
 <h2>Efficient Artificial Intelligence For Edge Computing </h2>
-<h2>ICDCS 2020 Workshop</h2>
+<h2>ICDCS 2021 Workshop</h2>
 </div>
 
 ## Topic Description
@@ -35,14 +35,12 @@ The EAI workshop will feature full-day events. We plan to invite 2 to 4 keynote 
 We will also organize a panel by the invited speakers to discuss EAI challenges & opportunities.
 
 ### **Submission Information**
-All papers need to be submitted electronically in PDF format through [**<u>here</u>**](https://easychair.org/conferences/?conf=eai2020) hosted with EasyChair. Papers must be formatted for 8.5x11-inch paper. The length of the paper must be no more than 6 pages (or 8 pages with over-length charge) in the IEEE double-column format (10-pt font), including references and everything. The reviews will be single blind. At least one of the authors of every accepted paper must register and present the paper at the workshop.
+All papers need to be submitted electronically in PDF format through [**<u>here</u>**](https://easychair.org/conferences/?conf=eai2021) hosted with EasyChair. Papers must be formatted for 8.5x11-inch paper. The length of the paper must be no more than 6 pages (or 8 pages with over-length charge) in the IEEE double-column format (10-pt font), including references and everything. The reviews will be single blind. At least one of the authors of every accepted paper must register and present the paper at the workshop.
 
 ### **Important Dates**
-~~**Submission Deadline**: March 20, 2020~~  
-~~**Extended Submission Deadline**: March 27, 2020~~  
-~~**Acceptance Notifications**: April 3, 2020~~  
-~~**Acceptance Notifications**: April 7, 2020~~  
-~~**Camera-ready**: April 17, 2020~~
+**Submission Deadline**: January 13, 2021  
+**Acceptance Notifications**: March 17, 2021  
+**Camera-ready**: April 20, 2021
 
 All submissions will be considered for oral and poster presentations at EAI. The decision on presentation format will be based primarily on an assessment of the breadth of interest, and the construction. We will seek sponsorship to set up the best paper and best poster awards.
 
@@ -62,28 +60,6 @@ A tentative workshop schedule is outlined below:
 | 15:45-16:30 | Poster Session of Contributed Works |
 | 16:30-17:00 | Award Ceremony & Closing Session |
 
-## Accepted papers
-
-Image Denoising for Efficient Anomaly Detection in Videos  
-Zhiwen Fang, Zhou Yue, Weiyuan Liu and Feng Yang  
-
-SiEVE: Semantically Encoded Video Analytics on Edge and Cloud  
-Tarek Elgamal, Shu Shi, Varun Gupta, Rittwik Jana and Klara Nahrstedt  
-
-Evaluating the Merits of Ranking in Structured Network Pruning  
-Kuldeep Sharma, Nirmala Ramakrishnan, Alok Prakash, Siew-Kei Lam and Thambipillai Srikanthan  
-
-Deploy-able Privacy Preserving Collaborative ML  
-Nandish Chattopadhyay, Ritabrata Maiti and Anupam Chattopadhyay  
-
-Adaptive Precision Training for Resource Constrained Devices  
-Tian Huang, Tao Luo and Joey Tianyi Zhou  
-
-Energy Efficient In-memory Integer Multiplication Based on Racetrack Memory  
-Tao Luo, Wei Zhang, Bingsheng He, Cheng Liu and Douglas Maskell  
-
-A LoRaWAN-MAC Protocol Based on WSN Residual Energy to Adjust Duty Cycle  
-Ting Xu and Ming Zhao
 
 ## Organizing Committee
 
@@ -158,4 +134,4 @@ Nanyang Technological University
 
 
 ## Related Links:
-[40th IEEE International Conference on Distributed Computing Systems July 8 - 10, 2020, Singapore](https://icdcs2020.sg/ "ICDCS2020")
+[41th IEEE International Conference on Distributed Computing Systems July 7 - July 10, 2021 (Tentative), Washington DC, USA](https://icdcs2021.us/ "ICDCS2021")
