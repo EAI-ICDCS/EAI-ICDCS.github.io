@@ -39,7 +39,8 @@ All papers must be original and not simultaneously submitted to another journal 
 
 ### **Important Dates**
 ~~**Submission Deadline**: March 2, 2021~~  
-**Extended Submission Deadline**: March 16, 2021  
+~~**Extended Submission Deadline**: March 16, 2021~~  
+**Extended Submission Deadline**: March 21, 2021  
 **Acceptance Notifications**: April 2, 2021  
 **Camera-ready**: April 16, 2021
 
