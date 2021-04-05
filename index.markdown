@@ -40,9 +40,10 @@ All papers must be original and not simultaneously submitted to another journal 
 ### **Important Dates**
 ~~**Submission Deadline**: March 2, 2021~~  
 ~~**Extended Submission Deadline**: March 16, 2021~~  
-**Extended Submission Deadline**: March 21, 2021  
-**Acceptance Notifications**: April 2, 2021  
-**Camera-ready**: April 16, 2021
+~~**Extended Submission Deadline**: March 21, 2021~~  
+~~**Acceptance Notifications**: April 2, 2021~~  
+**Extended Acceptance Notifications**: April 10, 2021  
+**Camera-ready**: April 20, 2021
 
 All submissions will be considered for oral and poster presentations at EAI. The decision on presentation format will be based primarily on an assessment of the breadth of interest, and the construction. We will seek sponsorship to set up the best paper and best poster awards.
 
