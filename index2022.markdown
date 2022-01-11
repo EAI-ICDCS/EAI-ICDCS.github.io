@@ -26,19 +26,26 @@ The main principles of efficient AI for edge computing are efficiency, effective
 
 ## Workshop Format and Schedule
 
-The EAI workshop will feature full-day events. We plan to invite 2 to 4 keynote speakers who are leading experts from both academia and industry. A list of potential keynote speakers includes:
+The EAI workshop will feature full-day events. We plan to invite 2 to 4 keynote speakers who are leading experts from both academia and industry.  
+
+<!---A list of potential keynote speakers includes:
+
 
 + **Shangjiang Tang**, Associate Professor from Tianjin University.
 + **Yao Chen**, Research Scientist from Advanced Digital Sciences Center UIUC.
 + **Zeng Zeng**, Senior Scientist from I2R, A\*STAR.
+-->
 
 We will also organize a panel by the invited speakers to discuss EAI challenges & opportunities.
 
 ### **Submission Information**
-All papers must be original and not simultaneously submitted to another journal or conference. All papers need to be submitted electronically in PDF format through  this [link](https://easychair.org/conferences/?conf=icdcseai2021) hosted by EasyChair. Papers must be formatted for 8.5x11-inch paper. The length of the paper must be no more than 6 pages (or 8 pages with over-length charge) in the IEEE double-column format (10-pt font), including references and everything. The reviews will be single blind. At least one of the authors of every accepted paper must register and present the paper at the workshop.
+All papers must be original and not simultaneously submitted to another journal or conference. All papers need to be submitted electronically in PDF format through  this [link](https://easychair.org/conferences/?conf=icdcseai2022) hosted by EasyChair. Papers must be formatted for 8.5x11-inch paper. The length of the paper must be no more than 6 pages (or 8 pages with over-length charge) in the IEEE double-column format (10-pt font), including references and everything. The reviews will be single blind. At least one of the authors of every accepted paper must register and present the paper at the workshop.
 
-### **Important Dates**
-TBD
+### **Important Dates**  
+**Submission Deadline**: March 1, 2021  
+**Acceptance Notifications**: April 7, 2022  
+**Camera-ready**: April 21, 2022  
+
 <!---
 ~~**Submission Deadline**: March 2, 2021~~  
 ~~**Extended Submission Deadline**: March 16, 2021~~  
