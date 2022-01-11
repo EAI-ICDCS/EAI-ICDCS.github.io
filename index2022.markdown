@@ -42,7 +42,7 @@ We will also organize a panel by the invited speakers to discuss EAI challenges 
 All papers must be original and not simultaneously submitted to another journal or conference. All papers need to be submitted electronically in PDF format through  this [link](https://easychair.org/conferences/?conf=icdcseai2022) hosted by EasyChair. Papers must be formatted for 8.5x11-inch paper. The length of the paper must be no more than 6 pages (or 8 pages with over-length charge) in the IEEE double-column format (10-pt font), including references and everything. The reviews will be single blind. At least one of the authors of every accepted paper must register and present the paper at the workshop.
 
 ### **Important Dates**  
-**Submission Deadline**: March 1, 2021  
+**Submission Deadline**: March 1, 2022  
 **Acceptance Notifications**: April 7, 2022  
 **Camera-ready**: April 21, 2022  
 
