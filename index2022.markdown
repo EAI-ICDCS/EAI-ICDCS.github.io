@@ -47,7 +47,7 @@ All papers must be original and not simultaneously submitted to another journal 
 
 ### **Important Dates**  
 ~~**Submission Deadline**: March 1, 2022~~  
-**Extended Submission Deadline**: March 10, 2022
+**Extended Submission Deadline**: March 10, 2022  
 **Acceptance Notifications**: April 7, 2022  
 **Camera-ready**: April 21, 2022  
 
