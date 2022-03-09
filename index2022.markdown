@@ -88,7 +88,7 @@ A tentative workshop schedule is outlined below:
 <img src="/bio/ZHOU_Joey.jpg" height="auto" width="100" style="border-radius:50%">
 </div>
 <span style="font-weight:bold">Joey Tianyi Zhou</span>  <br>
-Centre for Frontie AI Research <br>
+Centre for Frontier AI Research <br>
 Agency for Science, Technology and Research
 
   </div>
