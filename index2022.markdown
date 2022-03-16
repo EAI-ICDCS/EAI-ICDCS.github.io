@@ -159,3 +159,9 @@ Nanyang Technological University
 
 - [EAI2021](https://eai-icdcs.github.io/index2021.html)
 - [EAI2020](https://eai-icdcs.github.io/index2020.html)
+
+## Sponsors
+
+<div>
+<img src="/assets/HTPO_AI3_Horizontal Logo_RGB.jpg" height="auto" width="300">
+</div>
