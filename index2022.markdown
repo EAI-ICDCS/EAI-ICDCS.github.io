@@ -74,22 +74,16 @@ A tentative workshop schedule is outlined below:
 ## Accepted papers
 
 Temperature Annealing Knowledge Distillation from Averaged Teacher  
-Xiaozhe Gu, Zixun Zhang and Tao Luo  
 
 You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding  
-Qing Du and Yucheng Luo  
 
 Downscaling and Overflow-aware Model Compression for Efficient Vision Processors  
-Haokun Li, Jing Liu, Liancheng Jia, Yun Liang, Yaowei Wang and Mingkui Tan  
 
 Augmented Regularity for Efficient Video Anomaly Detection: An edge AI application  
-Jiafei Liang, Zhou Yue, Feng Yang and Zhiwen Fang  
 
 Incentive-driven Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing  
-Mingze Li, Tong Wu, Huan Zhou, Liang Zhao and Victor C. M. Leung  
 
 ROFL: RObust privacy preserving Federated Learning  
-Nandish Chattopadhyay, Arpit Singh and Anupam Chattopadhyay  
 
 
 ## Organizing Committee
