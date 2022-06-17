@@ -48,18 +48,10 @@ All papers must be original and not simultaneously submitted to another journal 
 ### **Important Dates**  
 ~~**Submission Deadline**: March 1, 2022~~  
 ~~**Extended Submission Deadline**: March 10, 2022~~  
-**Extended Submission Deadline**: March 17, 2022  
-**Acceptance Notifications**: April 7, 2022  
-**Camera-ready**: April 21, 2022  
+~~**Extended Submission Deadline**: March 17, 2022~~  
+~~**Acceptance Notifications**: April 7, 2022~~  
+~~**Camera-ready**: April 21, 2022~~  
 
-<!---
-~~**Submission Deadline**: March 2, 2021~~  
-~~**Extended Submission Deadline**: March 16, 2021~~  
-~~**Extended Submission Deadline**: March 21, 2021~~  
-~~**Acceptance Notifications**: April 2, 2021~~  
-**Extended Acceptance Notifications**: April 10, 2021  
-**Camera-ready**: April 20, 2021
--->
 
 All submissions will be considered for oral and poster presentations at EAI. The decision on presentation format will be based primarily on an assessment of the breadth of interest, and the construction. We will seek sponsorship to set up the best paper and best poster awards.
 
@@ -78,6 +70,26 @@ A tentative workshop schedule is outlined below:
 | 15:00-15:45 | Panel Discussion: Opportunities and Challenges for EAI |
 | 15:45-16:30 | Poster Session of Contributed Works |
 | 16:30-17:00 | Award Ceremony & Closing Session |
+
+## Accepted papers
+
+Temperature Annealing Knowledge Distillation from Averaged Teacher  
+Xiaozhe Gu, Zixun Zhang and Tao Luo  
+
+You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding  
+Qing Du and Yucheng Luo  
+
+Downscaling and Overflow-aware Model Compression for Efficient Vision Processors  
+Haokun Li, Jing Liu, Liancheng Jia, Yun Liang, Yaowei Wang and Mingkui Tan  
+
+Augmented Regularity for Efficient Video Anomaly Detection: An edge AI application  
+Jiafei Liang, Zhou Yue, Feng Yang and Zhiwen Fang  
+
+Incentive-driven Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing  
+Mingze Li, Tong Wu, Huan Zhou, Liang Zhao and Victor C. M. Leung  
+
+ROFL: RObust privacy preserving Federated Learning  
+Nandish Chattopadhyay, Arpit Singh and Anupam Chattopadhyay  
 
 
 ## Organizing Committee
