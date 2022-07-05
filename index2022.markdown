@@ -59,13 +59,12 @@ A tentative workshop schedule is outlined below:
 
 | Time | Event |
 | 08:30-08:45 | Opening Ceremony |
-| 08:45-09:20 | Keynote Talk 1 |
-| 09:25-10:00 | Keynote Talk 2 |
+| 08:45-09:20 | Keynote Talk |
+| 09:25-10:00 | Oral Presentations of Accepted Submissions |
 | 10:00-10:30 | Coffee Break |
 | 10:30-12:00 | Oral Presentations of Accepted Submissions |
 | 12:00-13:15 | Lunch Break |
-| 13:15-13:50 | Keynote Talk 3 |
-| 13:55-14:30 | Keynote Talk 4 |
+| 13:15-14:30 | Oral Presentations of Accepted Submissions |
 | 14:30-15:00 | Coffee Break |
 | 15:00-15:45 | Panel Discussion: Opportunities and Challenges for EAI |
 | 15:45-16:30 | Poster Session of Contributed Works |
