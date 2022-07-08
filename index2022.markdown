@@ -59,14 +59,14 @@ A tentative workshop schedule is outlined below:
 
 | Time          |  Event                                                                                                            |
 | 14:00--14:05	|  Opening Ceremony                                                                                                 |
-| 14:05--14:35	|  Keynote Talk：Radix-Encoded SNN:<br />An Efficient Solution for Edge AI                                               |
-| 14:35—14:55	|  Presentation: Temperature Annealing<br />Knowledge Distillation from Averaged Teacher                                 |
-| 14:55—15:15	|  Presentation: You Only Look & Listen Once:<br />Towards Fast and Accurate Visual Grounding                            |
+| 14:05--14:35	|  Keynote Talk：Radix-Encoded SNN: An Efficient Solution for Edge AI                                               |
+| 14:35--14:55	|  Presentation: Temperature Annealing Knowledge Distillation from Averaged Teacher                                 |
+| 14:55--15:15	|  Presentation: You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding                            |
 | 15:15--15:45	|  Coffee Break                                                                                                     |
-| 15:45--16:05	|  Presentation: Downscaling and Overflow-awar<br />Model Compression for Efficient Vision Processors                   |
-| 16:05--16:25	|  Presentation: Augmented Regularity for<br />Efficient Video Anomaly Detection: An edge AI application                 |
-| 16:25--16:45	|  Presentation: Incentive-driven Computation Offloading<br />and Resource Allocation in Mobile Cloud-Edge Computing     |
-| 16:45--17:05	|  Presentation: ROFL: RObust privacy preserving<br />Federated Learning                                                 |
+| 15:45--16:05	|  Presentation: Downscaling and Overflow-aware Model Compression for Efficient Vision Processors                   |
+| 16:05--16:25	|  Presentation: Augmented Regularity for Efficient Video Anomaly Detection: An edge AI application                 |
+| 16:25--16:45	|  Presentation: Incentive-driven Computation Offloading and Resource Allocation in Mobile Cloud-Edge Computing     |
+| 16:45--17:05	|  Presentation: ROFL: RObust privacy preserving Federated Learning                                                 |
 | 17:05--17:10	|  Award Ceremony & Closing Session                                                                                 |
 
 
