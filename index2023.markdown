@@ -8,7 +8,7 @@ exclude: true
 
 
 <div>
-  <img src="assets/icdcs2023banner.jpeg">
+  <img src="assets/icdcs2023banner.png">
 </div>
 
 <br>
