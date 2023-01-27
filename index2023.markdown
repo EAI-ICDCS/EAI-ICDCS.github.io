@@ -24,9 +24,11 @@ This workshop focuses on an emerging and impactful topic  Efficient Artificial I
 
 The main principles of efficient AI for edge computing are efficiency, effectiveness, and adaptability. Efficiency is the ability to achieve the required performance with constrained resources (e.g. compute, memory, storage, and power). Effectiveness is the ability to achieve a good quality of results (QoR) with efficiency taken into consideration. Adaptability deals with the ability to adapt to changing needs, environment, and operational conditions. Together, these three principles of efficient AI formulate the key metrics toward ultra-efficient AI for edge devices. In the last few years, we have witnessed a growing research trend in these principles.  Various kinds of techniques are proposed such as post-training or training-aware quantization and pruning, hardware-software co-design, low power machine learning, etc. The research and development progress has been complemented in popular machine learning frameworks with many applications in image classification, video analysis, IoTs, circuit/chip design, health monitoring and more.
 
+<!---
 Two best paper awards and one best student paper award are planned:
 * 2x best paper awards: 500 USD for each
 * 1x best student paper award: 300 USD
+-->
 
 ## Workshop Format and Schedule
 
@@ -46,7 +48,7 @@ We will also organize a panel by the invited speakers to discuss EAI challenges 
 All papers must be original and not simultaneously submitted to another journal or conference. All papers need to be submitted electronically in PDF format through  this [link](https://easychair.org/conferences/?conf=icdcseai2023) hosted by EasyChair. Papers must be formatted for 8.5x11-inch paper. The length of the paper must be no more than 6 pages (or 8 pages with over-length charge) in the IEEE double-column format (10-pt font), including references and everything. The reviews will be single blind. At least one of the authors of every accepted paper must register and present the paper at the workshop.
 
 ### **Important Dates**  
-~~**Submission Deadline**: Jan 21, 2023~~  
+**Submission Deadline**: March 3, 2023  
 **Acceptance Notifications**: April 3, 2023  
 **Camera-ready**: May 8, 2023  
 
